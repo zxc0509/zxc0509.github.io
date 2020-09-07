@@ -15,7 +15,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/zxc0509/portfolio',
             title: '보라투어',
             demo: 'https://mporter.co',
-            technologies: ['JavaScript', 'Java', 'Ajax'],
+            technologies: ['JavaScript', 'Java', 'Ajax', 'CSS'],
             description: "자유/패키지 여행사 사이트 입니다.",
             categories: ['featured', 'webdev']
         },
@@ -42,7 +42,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/abhn/mpw',
             title: 'Master Password',
             demo: 'https://www.nagekar.com/mpw',
-            technologies: ['Semantic UI', 'CSS3'],
+            technologies: ['Semantic UI', 'CSS'],
             description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
             categories: ['featured', 'security']
         },
